@@ -1,0 +1,10 @@
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.deps.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.runtimeconfig.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.runtimeconfig.dev.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.dll
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\bin\Debug\netcoreapp2.1\Produto.pdb
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.csproj.CoreCompileInputs.cache
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.AssemblyInfoInputs.cache
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.AssemblyInfo.cs
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.dll
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Produto\Produto\obj\Debug\netcoreapp2.1\Produto.pdb

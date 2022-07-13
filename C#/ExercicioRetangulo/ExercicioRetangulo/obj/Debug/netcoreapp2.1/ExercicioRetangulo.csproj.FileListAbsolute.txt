@@ -1,0 +1,10 @@
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp2.1\ExercicioRetangulo.deps.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp2.1\ExercicioRetangulo.runtimeconfig.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp2.1\ExercicioRetangulo.runtimeconfig.dev.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp2.1\ExercicioRetangulo.dll
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\bin\Debug\netcoreapp2.1\ExercicioRetangulo.pdb
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp2.1\ExercicioRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp2.1\ExercicioRetangulo.AssemblyInfoInputs.cache
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp2.1\ExercicioRetangulo.AssemblyInfo.cs
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp2.1\ExercicioRetangulo.dll
+C:\Users\joao.alexandre\Documents\UDEMY\C#\ExercicioRetangulo\ExercicioRetangulo\obj\Debug\netcoreapp2.1\ExercicioRetangulo.pdb

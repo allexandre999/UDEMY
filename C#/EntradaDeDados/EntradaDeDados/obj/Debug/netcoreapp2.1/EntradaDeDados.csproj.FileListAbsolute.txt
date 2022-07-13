@@ -1,0 +1,11 @@
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp2.1\EntradaDeDados.deps.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp2.1\EntradaDeDados.runtimeconfig.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp2.1\EntradaDeDados.runtimeconfig.dev.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp2.1\EntradaDeDados.dll
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp2.1\EntradaDeDados.pdb
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp2.1\EntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp2.1\EntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp2.1\EntradaDeDados.AssemblyInfo.cs
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp2.1\EntradaDeDados.dll
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp2.1\EntradaDeDados.pdb
+C:\Users\joao.alexandre\Documents\UDEMY\C#\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp2.1\EntradaDeDados.csprojAssemblyReference.cache

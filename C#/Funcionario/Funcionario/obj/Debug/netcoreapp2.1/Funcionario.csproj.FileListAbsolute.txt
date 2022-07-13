@@ -1,0 +1,11 @@
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.deps.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.runtimeconfig.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.runtimeconfig.dev.json
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.dll
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\bin\Debug\netcoreapp2.1\Funcionario.pdb
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.csprojAssemblyReference.cache
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.AssemblyInfoInputs.cache
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.AssemblyInfo.cs
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.dll
+C:\Users\joao.alexandre\Documents\UDEMY\C#\Funcionario\Funcionario\obj\Debug\netcoreapp2.1\Funcionario.pdb
