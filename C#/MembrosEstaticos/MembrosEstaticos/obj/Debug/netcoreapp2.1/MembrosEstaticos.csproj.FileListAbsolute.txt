@@ -1,0 +1,11 @@
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.deps.json
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.runtimeconfig.json
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.runtimeconfig.dev.json
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.dll
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\bin\Debug\netcoreapp2.1\MembrosEstaticos.pdb
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.csprojAssemblyReference.cache
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.csproj.CoreCompileInputs.cache
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.AssemblyInfoInputs.cache
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.AssemblyInfo.cs
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.dll
+D:\temp\UDEMY\C#\MembrosEstaticos\MembrosEstaticos\obj\Debug\netcoreapp2.1\MembrosEstaticos.pdb
