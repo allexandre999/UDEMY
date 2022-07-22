@@ -1,0 +1,11 @@
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\obj\Debug\netcoreapp2.1\ProdutoConstrutores.csprojAssemblyReference.cache
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\obj\Debug\netcoreapp2.1\ProdutoConstrutores.csproj.CoreCompileInputs.cache
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\obj\Debug\netcoreapp2.1\ProdutoConstrutores.AssemblyInfoInputs.cache
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\obj\Debug\netcoreapp2.1\ProdutoConstrutores.AssemblyInfo.cs
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\bin\Debug\netcoreapp2.1\ProdutoConstrutores.deps.json
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\bin\Debug\netcoreapp2.1\ProdutoConstrutores.runtimeconfig.json
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\bin\Debug\netcoreapp2.1\ProdutoConstrutores.runtimeconfig.dev.json
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\bin\Debug\netcoreapp2.1\ProdutoConstrutores.dll
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\bin\Debug\netcoreapp2.1\ProdutoConstrutores.pdb
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\obj\Debug\netcoreapp2.1\ProdutoConstrutores.dll
+D:\temp\UDEMY\C#\Seção-5\ProdutoConstrutores\ProdutoConstrutores\obj\Debug\netcoreapp2.1\ProdutoConstrutores.pdb

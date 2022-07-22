@@ -1,0 +1,11 @@
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\bin\Debug\netcoreapp2.1\ProdutoEncapsulamento.deps.json
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\bin\Debug\netcoreapp2.1\ProdutoEncapsulamento.runtimeconfig.json
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\bin\Debug\netcoreapp2.1\ProdutoEncapsulamento.runtimeconfig.dev.json
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\bin\Debug\netcoreapp2.1\ProdutoEncapsulamento.dll
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\bin\Debug\netcoreapp2.1\ProdutoEncapsulamento.pdb
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\obj\Debug\netcoreapp2.1\ProdutoEncapsulamento.csprojAssemblyReference.cache
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\obj\Debug\netcoreapp2.1\ProdutoEncapsulamento.csproj.CoreCompileInputs.cache
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\obj\Debug\netcoreapp2.1\ProdutoEncapsulamento.AssemblyInfoInputs.cache
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\obj\Debug\netcoreapp2.1\ProdutoEncapsulamento.AssemblyInfo.cs
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\obj\Debug\netcoreapp2.1\ProdutoEncapsulamento.dll
+D:\temp\UDEMY\C#\Seção-5\ProdutoEncapsulamento\ProdutoEncapsulamento\obj\Debug\netcoreapp2.1\ProdutoEncapsulamento.pdb
