@@ -1,0 +1,11 @@
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\obj\Debug\netcoreapp2.1\ProdutoProperties.csprojAssemblyReference.cache
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\obj\Debug\netcoreapp2.1\ProdutoProperties.csproj.CoreCompileInputs.cache
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\obj\Debug\netcoreapp2.1\ProdutoProperties.AssemblyInfoInputs.cache
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\obj\Debug\netcoreapp2.1\ProdutoProperties.AssemblyInfo.cs
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\bin\Debug\netcoreapp2.1\ProdutoProperties.deps.json
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\bin\Debug\netcoreapp2.1\ProdutoProperties.runtimeconfig.json
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\bin\Debug\netcoreapp2.1\ProdutoProperties.runtimeconfig.dev.json
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\bin\Debug\netcoreapp2.1\ProdutoProperties.dll
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\bin\Debug\netcoreapp2.1\ProdutoProperties.pdb
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\obj\Debug\netcoreapp2.1\ProdutoProperties.dll
+D:\temp\UDEMY\C#\Secao-5\ProdutoProperties\ProdutoProperties\obj\Debug\netcoreapp2.1\ProdutoProperties.pdb

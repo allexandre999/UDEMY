@@ -1,0 +1,10 @@
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\bin\Debug\netcoreapp2.1\ProdutoAutoProperties.deps.json
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\bin\Debug\netcoreapp2.1\ProdutoAutoProperties.runtimeconfig.json
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\bin\Debug\netcoreapp2.1\ProdutoAutoProperties.runtimeconfig.dev.json
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\bin\Debug\netcoreapp2.1\ProdutoAutoProperties.dll
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\bin\Debug\netcoreapp2.1\ProdutoAutoProperties.pdb
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\obj\Debug\netcoreapp2.1\ProdutoAutoProperties.csproj.CoreCompileInputs.cache
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\obj\Debug\netcoreapp2.1\ProdutoAutoProperties.AssemblyInfoInputs.cache
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\obj\Debug\netcoreapp2.1\ProdutoAutoProperties.AssemblyInfo.cs
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\obj\Debug\netcoreapp2.1\ProdutoAutoProperties.dll
+D:\temp\UDEMY\C#\Secao-5\ProdutoAutoProperties\ProdutoAutoProperties\obj\Debug\netcoreapp2.1\ProdutoAutoProperties.pdb

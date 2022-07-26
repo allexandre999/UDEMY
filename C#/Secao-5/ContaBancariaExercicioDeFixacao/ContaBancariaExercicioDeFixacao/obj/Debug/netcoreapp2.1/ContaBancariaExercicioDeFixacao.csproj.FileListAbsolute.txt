@@ -1,0 +1,11 @@
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\bin\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.deps.json
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\bin\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.runtimeconfig.json
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\bin\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.runtimeconfig.dev.json
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\bin\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.dll
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\bin\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.pdb
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\obj\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.csproj.CoreCompileInputs.cache
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\obj\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.AssemblyInfoInputs.cache
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\obj\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.AssemblyInfo.cs
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\obj\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.dll
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\obj\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.pdb
+D:\temp\UDEMY\C#\Secao-5\ContaBancariaExercicioDeFixacao\ContaBancariaExercicioDeFixacao\obj\Debug\netcoreapp2.1\ContaBancariaExercicioDeFixacao.csprojAssemblyReference.cache
